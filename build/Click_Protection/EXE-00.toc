@@ -3,7 +3,8 @@
  False,
  False,
  True,
- 'C:\\Users\\YDS\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ ['C:\\Users\\YDS\\Desktop\\Works\\Yaptığım '
+  'çalışmalar\\ClickProtection\\Click_Protection\\CLICKPROLOGO.ico'],
  None,
  False,
  False,
@@ -79,7 +80,7 @@
  [],
  False,
  False,
- 1751627231,
+ 1751630102,
  [('runw.exe',
    'C:\\Users\\YDS\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
