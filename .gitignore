@@ -1,0 +1,26 @@
+# PyInstaller çıktıları
+build/
+dist/
+*.spec
+
+# Python derleme ve sanal ortam dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+lib/
+include/
+bin/
+share/
+local/
+
+# Günlük ve veritabanı dosyaları (opsiyonel)
+*.log
+*.sqlite3
+*.db
+
+# Eğer config.ini dosyası hassas bilgiler içeriyorsa ve GitHub'a yüklemek istemiyorsanız bu satırın başındaki # işaretini kaldırın:
+# config.ini
